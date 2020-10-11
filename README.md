@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img  width="820" height="420" src="https://github.com/elimoises/elimoises/blob/main/greetings.gif">
+</p>
 
-<!--
-**elimoises/elimoises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Ella! :smile: 
+I’m an Information Technology student majoring in Software Technologies. I am here to learn and develop my skills in programming, application development and 
+collaboration with other developers. 
+I still haven’t mastered any programming language and am still exploring different tools for application development. 
+***
+### 📫 How to reach me: 
+* Email: [ellamarie.moises@wvsu.edu.ph](mailto:ellamarie.moises@wvsu.edu.ph)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
