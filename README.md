@@ -7,6 +7,4 @@ I’m an Information Technology student majoring in Software Technologies. I am 
 collaboration with other developers. 
 I still haven’t mastered any programming language and am still exploring different tools for application development. 
 ***
-### 📫 How to reach me: 
-* Email: [ellamarie.moises@wvsu.edu.ph](mailto:ellamarie.moises@wvsu.edu.ph)
 
